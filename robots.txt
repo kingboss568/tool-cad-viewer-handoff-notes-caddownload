@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://viewer-notes.cad-download.com/sitemap.xml
