@@ -1,0 +1,45 @@
+CAD Viewer Handoff Notes
+
+CAD Viewer Handoff Notes is a practical cad studio workspace for BIM coordinator teams who need a working tool, reference pages, exportable notes, and SEO-ready guidance in one static site.
+
+Key sections:
+- https://viewer-notes.cad-download.com/
+- https://viewer-notes.cad-download.com/tool/
+- https://viewer-notes.cad-download.com/workspace/
+- https://viewer-notes.cad-download.com/reports/
+- https://viewer-notes.cad-download.com/guides/
+- https://viewer-notes.cad-download.com/library/
+- https://viewer-notes.cad-download.com/templates/
+- https://viewer-notes.cad-download.com/compare/
+- https://viewer-notes.cad-download.com/checklists/
+- https://viewer-notes.cad-download.com/integrations/
+- https://viewer-notes.cad-download.com/settings/
+- https://viewer-notes.cad-download.com/plans/
+- https://viewer-notes.cad-download.com/faq/
+- https://viewer-notes.cad-download.com/privacy/
+- https://viewer-notes.cad-download.com/about/
+- https://viewer-notes.cad-download.com/guides/preflight-a-dwg-package-1/
+- https://viewer-notes.cad-download.com/guides/standardize-a-drawing-set-2/
+- https://viewer-notes.cad-download.com/guides/prepare-a-client-handoff-3/
+- https://viewer-notes.cad-download.com/guides/audit-a-template-4/
+- https://viewer-notes.cad-download.com/guides/compare-block-options-5/
+- https://viewer-notes.cad-download.com/guides/document-drawing-assumptions-6/
+- https://viewer-notes.cad-download.com/guides/preflight-a-dwg-package-7/
+- https://viewer-notes.cad-download.com/guides/standardize-a-drawing-set-8/
+- https://viewer-notes.cad-download.com/guides/prepare-a-client-handoff-9/
+- https://viewer-notes.cad-download.com/guides/audit-a-template-10/
+- https://viewer-notes.cad-download.com/guides/compare-block-options-11/
+- https://viewer-notes.cad-download.com/guides/document-drawing-assumptions-12/
+- https://viewer-notes.cad-download.com/guides/preflight-a-dwg-package-13/
+- https://viewer-notes.cad-download.com/guides/standardize-a-drawing-set-14/
+- https://viewer-notes.cad-download.com/guides/prepare-a-client-handoff-15/
+- https://viewer-notes.cad-download.com/guides/audit-a-template-16/
+- https://viewer-notes.cad-download.com/guides/compare-block-options-17/
+- https://viewer-notes.cad-download.com/guides/document-drawing-assumptions-18/
+- https://viewer-notes.cad-download.com/guides/preflight-a-dwg-package-19/
+- https://viewer-notes.cad-download.com/guides/standardize-a-drawing-set-20/
+- https://viewer-notes.cad-download.com/guides/prepare-a-client-handoff-21/
+- https://viewer-notes.cad-download.com/guides/audit-a-template-22/
+- https://viewer-notes.cad-download.com/guides/compare-block-options-23/
+- https://viewer-notes.cad-download.com/guides/document-drawing-assumptions-24/
+- https://viewer-notes.cad-download.com/guides/preflight-a-dwg-package-25/
